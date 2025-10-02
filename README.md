@@ -25,6 +25,8 @@ Este proyecto implementa una **mesa de ayuda inteligente** que responde pregunta
 * **HuggingFace Embeddings**
 * **LM Studio** con el modelo **Mistral-7B Instruct**
 
+<img width="1365" height="718" alt="image" src="https://github.com/user-attachments/assets/6f676fe6-e70c-4e7f-85e3-393ed29446af" />
+
 ---
 
 ## 📂 Estructura del proyecto
