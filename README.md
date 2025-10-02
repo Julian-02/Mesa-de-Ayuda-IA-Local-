@@ -2,6 +2,8 @@
 
 Este proyecto implementa una **mesa de ayuda inteligente** que responde preguntas basadas en un manual en PDF, utilizando **modelos LLM locales** con LM Studio y LangChain.
 
+<img width="763" height="826" alt="image" src="https://github.com/user-attachments/assets/63857e4d-a349-4089-95ba-c1d750a7a220" /> <img width="724" height="724" alt="image" src="https://github.com/user-attachments/assets/fa78eef6-5aa9-4445-9ec2-637f01ef0e67" />
+
 ---
 
 ## 🚀 Características
